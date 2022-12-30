@@ -1,0 +1,17 @@
+{
+  "ownerNumber":  ["6287750278761@s.whatsapp.net","6287750278761@s.whatsapp.net"],
+  "botName": "NungBootz - BOT",
+  "packname" : "NungBootz",
+  "author" : "Nung XD",
+  "Prefix" : "Multi",
+  "sessionName": "ig.fhl.dx17",
+  "Mode": "Public",
+  "pathImg": "./media/bobi.jpg",
+  "fakeImg": "./media/fake.jpg",
+  "gamewaktu": 60,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 100,
+	"user": 17
+  }
+}
